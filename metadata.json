@@ -1,0 +1,6 @@
+{
+  "name": "Florida City Restaurant - 3D Animated Experience",
+  "description": "Interactive 3D animated website for Florida City Restaurant located at 1209 NW 9th Ave, Florida City, FL. Explore our 3D dining terrace, inspect signature dishes in 3D exploded view, reserve tables on the 3D floor plan, and order fresh Florida diner favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
